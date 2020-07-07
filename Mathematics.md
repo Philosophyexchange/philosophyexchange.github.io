@@ -1,10 +1,5 @@
 ---
 layout: page
-title: Mathematics
-permalink: /Math/
+title: Mind
+permalink: /Mind/
 ---
-
-See my math projects here.
-
-## Delta One
-[![Delta One](http://u)](.)

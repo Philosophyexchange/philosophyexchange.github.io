@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Philosophy and Politics
-permalink: /Philpol/
+title: Ethics and Society
+permalink: /Ethics/
 ---
 ## Why Philosophy?
 [![Why Philosophy](hpg)](..)
