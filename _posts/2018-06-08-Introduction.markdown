@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction"
+title:  "About Philosophy Exchange"
 date:   20-06-07 20:08:21 -0700
 categories: about
 tags:
