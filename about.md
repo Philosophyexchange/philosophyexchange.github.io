@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Rationality
-permalink: /Rationality/
+title: About
+permalink: /About/
 ---
