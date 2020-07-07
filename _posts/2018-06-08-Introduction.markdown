@@ -5,6 +5,9 @@ date:   20-06-07 20:08:21 -0700
 categories: about
 tags:
 ---
+
+** Example Post **
+
 Philosophy Exchange was born out of a need to fill a gap in modern academia.
 
 Historically, the university was constructed to instruct scholars on the process of independent research. This took place in the form of regular tutorial lessons and meetings with supervisors. Today, this same engagement continues to take place. However, with the outburst of master's and doctoral programs in recent history (i.e. over the past 100 years), it is no longer only the privately tutored and wealthy who have access to study materials. Further, technologies have advanced to a point where geographical location, or the university one studies at, should not detract from one's advancement. Rather, one's personal thoughtfulness and work ethic ought to be the determining factor.
