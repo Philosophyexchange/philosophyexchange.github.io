@@ -1,7 +1,55 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 author_profile: true
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /
+  actions:
+    - label: "View Submissions"
+      url: "/portfolio/"
+  caption: ""
+excerpt: "A place to share and discuss analytic philosophy ideas."
+intro:
+  - excerpt: ' '
+feature_row:
+  - image_path: /assets/images/peckham.JPG
+    alt: "placeholder image 1"
+    title: "Share your Ideas"
+    excerpt: "Solicit and share **constructive feedback** through our process by which we pair developing philosophers with one another."
+  - image_path: /assets/images/parliament.JPG
+
+    alt: "placeholder image 2"
+    title: "Be Exposed"
+    excerpt: "Be exposed to quality topical submissions within your **area of specialization** by examining current abstracts."
+
+
+    btn_class: "btn--primary"
+  - image_path: /assets/images/john.JPG
+    title: "Develop"
+    excerpt: "Develop within a community of other **analytic philosophers** through discussions on our comment board."
+
+feature_row3:
+  - image_path: /assets/images/mile.JPG
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+
+
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/images/peckham.JPG
+    alt: "placeholder image 2"
+    title: "Placeholder Image Center Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+
+
+    btn_class: "btn--primary"
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}

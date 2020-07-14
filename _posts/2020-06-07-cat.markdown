@@ -1,7 +1,7 @@
 ---
-title: "Introduction"
+title: "Cat Rationality"
 categories:
-  - Blog
+  - Rationality and Choice
 tags:
   - chat
   - Post Formats

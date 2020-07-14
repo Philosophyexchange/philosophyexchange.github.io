@@ -1,15 +1,16 @@
 main:
-  - title: "New Submissions"
-    url: /posts/
 
+  - title: "Submissions"
+    url: /portfolio/
 
   - title: "About"
-    url: /about/
-  - title: "Ethics"
-    url: /portfolio/
+    url: /about
+
 
 
 ###title: "Tags"
 ###url: /tags/
 ###title: "Categories"
 ###url: /categories/
+###title: "New Submissions"
+###url: /posts/

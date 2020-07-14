@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "About Philosophy Exchange"
-date:   20-06-07 20:08:21 -0700
-categories: about
+title: "Post: Chat"
+categories:
+  - Blog
 tags:
+  - chat
+  - Post Formats
 ---
 
 ** Example Post **
@@ -17,3 +18,10 @@ As such, Philosophy Exchange represents an innovative forum for individuals to s
 1. A repository to share pre-journal articles and ideas
 2. A forum to exchange ideas and abstracts
 3. A team of academics prepared to provide feedback on ideas
+
+
+layout: post
+title:  "About Philosophy Exchange"
+date:   20-06-07 20:08:21 -0700
+categories: about
+tags:

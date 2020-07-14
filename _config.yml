@@ -36,7 +36,7 @@ plugins:
 repository : Philosophyexchange/philosophyexchange.github.io
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /about.html
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -45,6 +45,7 @@ include:
   - _pages
 
 search: true
+logo: "/assets/images/phil-exchange.png"
 
 
 # Exclude from processing.
@@ -98,9 +99,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -112,9 +113,9 @@ defaults:
   # _portfolio
   - scope:
       path: "_portfolio"
-      type: collection
+      type: posts
     values:
-      layout: portfolio
+      layout: single
       author_profile: false
       share: true
 
