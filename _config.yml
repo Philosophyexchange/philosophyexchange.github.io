@@ -87,7 +87,7 @@ footer:
 collections:
   portfolio:
     output: true
-    permalink: /ethics/
+    #permalink: /ethics/
 
 
 defaults:
@@ -112,9 +112,9 @@ defaults:
   # _portfolio
   - scope:
       path: "_portfolio"
-      type: portfolio
+      type: collection
     values:
-      layout: single
+      layout: portfolio
       author_profile: false
       share: true
 
