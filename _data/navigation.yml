@@ -1,0 +1,15 @@
+main:
+  - title: "New Submissions"
+    url: /posts/
+
+
+  - title: "About"
+    url: /about/
+  - title: "Ethics and Society"
+    url: /ethics/
+
+
+###title: "Tags"
+###url: /tags/
+###title: "Categories"
+###url: /categories/
