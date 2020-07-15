@@ -1,5 +1,8 @@
 main:
 
+  - title: "Submit"
+    url: /submit/
+
   - title: "Submissions"
     url: /portfolio/
 
