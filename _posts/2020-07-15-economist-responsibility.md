@@ -2,7 +2,7 @@
 title: "Economist Responsibility on Policy"
 last_modified_at: 2020-07-15T16:20:02-05:00
 categories:
-  - Philosophy of Economics
+  - Philosophy of Social Sciences
 tags:
   - Responsibility
   - Decision Theory

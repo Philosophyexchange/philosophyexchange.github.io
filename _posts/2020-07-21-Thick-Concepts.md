@@ -1,6 +1,6 @@
 ---
 title: "A Critical Analysis of the IPCC's Methodology of Climate Change Detection and Attribution"
-last_modified_at: 2020-21-121T16:20:02-05:00
+last_modified_at: 2020-07-21T16:20:02-05:00
 categories:
   - Philosophy of Sciences
 tags:
