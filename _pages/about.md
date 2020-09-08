@@ -11,7 +11,6 @@ The mission of **Philosophy Exchange** is to...
 
 **Contribute today. Encourage tomorrow. Grow together.**
 
-**Philosophy Exchange** was brought to life by a group of likeminded London School of Economics (LSE) MSc Philosophy students. Throughout our time at the LSE we faced many professional and personal challenges. By facing these challenges together as a community, we were able to support each other and to help each individual reach their maximum potential. We now want to give this feeling of community and mutual support to the subsequent generations of LSE MSc Philosophy students.
 
 **Philosophy Exchange** is a place for learning which is free and open to all. The society benefits from the diversity of experience and knowledge that members of all stages of learning bring to the community. We welcome you to join our growing community of young professionals. We appreciate your interest and are curious to see what you can teach us today, tomorrow and in the future.
 
@@ -25,23 +24,6 @@ provides constructive feedback which helps others to improve their work
 welcomes and encourages feedback from others and uses it to improve the community
 
 We look forward to working with you!
-
-**Timeline**
-
-10.02.2019 **Philosophy Exchange** comes to life
-
-26-27.07.2019 First **Philosophy Exchange** LSE graduate conference
-
-10.07.2020 **Philosophy Exchange** goes online; launching of the website
-
-03.08.2020 Our current project is aimed exclusively at LSE MSc Philosophy students with feedback on their dissertation drafts. We recognize that the students’ learning experience at the LSE has been severely affected by the current Covid-19 pandemic. In the light of that, our team offers feedback on dissertation drafts.
-
-**Future Projects**
-
-22.09.2020 Welcome the 2020/2021 MSc Philosophy generation at the LSE
-
-01.11.2020 **Philosophy Exchange** goes global. Expanding to other Universities.
-
 
 
 **Board Members**
