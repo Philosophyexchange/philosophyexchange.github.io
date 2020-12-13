@@ -1,9 +1,9 @@
 ---
 
-title: Portfolio
+title: Blog
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /blog/
+collection: Portfolio
 entries_layout: grid
 classes: wide
 

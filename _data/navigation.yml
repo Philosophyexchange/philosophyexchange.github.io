@@ -1,5 +1,8 @@
 main:
 
+  - title: "Blog"
+    url: /categories/
+
   - title: "Submit"
     url: /submit/
 
@@ -8,6 +11,7 @@ main:
 
   - title: "About"
     url: /about/
+
 
 
 
