@@ -50,4 +50,5 @@ This seemingly abstruse narrative has much more real-world applications than peo
 I love entertaining myself with Schrödinger’s Cat because it opens my mind up to appreciate that everything in the universe is so interconnected that sometimes even the curiosity of a single human being could alter the reality. It makes me feel so powerful and powerless at the same time: Powerful that I could change the objective by one action; powerless because I cannot control the direction of that change in any sense. The dichotomy that true agency only exists in the face of ultimate uncertainty humbles me.
 
 I stopped using the Fitbit a while ago. I have come to term with the fact that I can never “quietly observe” my own vitals, and instead of inevitably altering them with my curiosity, I’d rather just let them be.  
+
 To read more about Schrödinger's Cat, you could start by reading John Gribbin’s 1985 book, In Search of Schrödinger's Cat, which explains in layman’s term the logic and implications of the famous thought experiment.
