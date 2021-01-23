@@ -1,12 +1,12 @@
 main:
 
-  - title: "Blog"
+  - title: "Latest Blog Post"
     url: /categories/
 
-  - title: "Submit"
-    url: /submit/
+  - ###title: "Submit"
+    ###url: /submit/
 
-  - title: "Submissions"
+  - title: "Past Blog Posts"
     url: /portfolio/
 
   - title: "About"

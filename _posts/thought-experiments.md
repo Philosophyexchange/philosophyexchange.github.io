@@ -1,13 +1,15 @@
 ---
 title: "Thought Experiments"
-last_modified_at: 2021-01-01T16:20:02-05:00
+last_modified_at: 2020-22-01T16:20:02-05:00
 categories:
-  - General Philosophy
+  - Political Philosophy
 tags:
-  - Peter Singer
-  - Schrödinger
-  - Descartes
+  - Drowning Child Case
+  - Evil Genius Case
+  - Schrödinger’s Cat Case
 ---
+---
+
 **Thought Experiments**
 
 Thought experiments are a key tool of analytic philosophy. They involve considering a real-world or imaginary situation which provokes a powerful moral or evaluative judgement. These judgements can then be used to test whether a philosophical theory is right or wrong, much as scientific experiments are used to test whether scientific theories are true or false. If a philosophical theory and our judgements conflict, then that could count as evidence against the theory.
