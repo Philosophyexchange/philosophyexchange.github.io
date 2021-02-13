@@ -41,3 +41,6 @@ PhD Candidate - Philosophy, London School of Economics
 
 Mason Majszak
 PhD Candidate - Philosophy of Climate Science, University of Bern
+
+Jakob Ambros
+MSc Philosophy and Social Sciences, London School of Economics
